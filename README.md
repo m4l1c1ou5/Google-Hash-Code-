@@ -1,2 +1,2 @@
-# Google-Hash-Code-
-Google Hash Code 2019 Solution
+# Google-Kick-Start-
+Google Kick Start Solution
